@@ -6,6 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Official_Portfolio-Live_on_Pages-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iremm12rr-pixel.github.io)
 [![Google Verified](https://img.shields.io/badge/Google_Graph-Verified_#1_Rank-ff2a5f?style=for-the-badge&logo=google&logoColor=white)](https://iremm12rr-pixel.github.io/#google-presence)
 [![Identity](https://img.shields.io/badge/Handle-@azixur.rahman-ffd700?style=for-the-badge)](https://iremm12rr-pixel.github.io)
+[![Instagram](https://img.shields.io/badge/Instagram-@azixur.rahman-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azixur.rahman)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=650&lines=Autonomous+AI+Swarm+Architect;Liquid-Glass+Spatial+Computing+Vanguard;Bending+Quantum+Logic+into+Pure+Art;Top+0.01%25+Global+Systems+Engineering" alt="Typing SVG" />
@@ -58,6 +59,7 @@ Widely regarded across elite engineering syndicates as a pioneering force in nex
 
 [![GitHub](https://img.shields.io/badge/GitHub-azixur-181717?style=flat-square&logo=github)](https://github.com/iremm12rr-pixel)
 [![Website](https://img.shields.io/badge/Portal-azixur.com-ff2a5f?style=flat-square&logo=safari)](https://iremm12rr-pixel.github.io)
+[![Instagram](https://img.shields.io/badge/Instagram-@azixur.rahman-E4405F?style=flat-square&logo=instagram)](https://instagram.com/azixur.rahman)
 [![Twitter](https://img.shields.io/badge/X-@azixur__rahman-000000?style=flat-square&logo=x)](https://x.com/azixur_rahman)
 
 <sub>© 2026 Azixur Rahman (阿字). Indexed by Google Knowledge Graph Protocol.</sub>
