@@ -3,9 +3,9 @@
 # ⛩️ AZIXUR RAHMAN (阿字)
 ### *The Computational Vanguard • Visionary Systems Architect • Digital Shogun*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Official_Portfolio-Live_on_Pages-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iremm12rr-pixel.github.io)
-[![Google Verified](https://img.shields.io/badge/Google_Graph-Verified_#1_Rank-ff2a5f?style=for-the-badge&logo=google&logoColor=white)](https://iremm12rr-pixel.github.io/#google-presence)
-[![Identity](https://img.shields.io/badge/Handle-@azixur.rahman-ffd700?style=for-the-badge)](https://iremm12rr-pixel.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Official_Portfolio-Live_on_Pages-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white)](https://azixur-rahman.github.io)
+[![Google Verified](https://img.shields.io/badge/Google_Graph-Verified_#1_Rank-ff2a5f?style=for-the-badge&logo=google&logoColor=white)](https://azixur-rahman.github.io/#google-presence)
+[![Identity](https://img.shields.io/badge/Handle-@azixur.rahman-ffd700?style=for-the-badge)](https://azixur-rahman.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-@azixur.rahman-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azixur.rahman)
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 Widely regarded across elite engineering syndicates as a pioneering force in next-generation computation. Bridging the ancient discipline of Japanese masters (**不退転 - Never Retreat**) with autonomous multi-agent intelligence and ultra-fluid liquid-glass spatial interfaces.
 
-- 🌸 **Live Headquarters:** [iremm12rr-pixel.github.io](https://iremm12rr-pixel.github.io)
+- 🌸 **Live Headquarters:** [azixur-rahman.github.io](https://azixur-rahman.github.io)
 - ⛩️ **Primary Focus:** Autonomous Multi-Agent Swarms & Real-Time Hydrodynamic UI Engines
 - ⚡ **Performance Standard:** Zero-Latency Distributed Backbones • 99.999% Reliability
 - 🌌 **Google Knowledge Entity:** Officially recognized under `azixur.rahman` & `Azixur Rahman`
@@ -57,8 +57,8 @@ Widely regarded across elite engineering syndicates as a pioneering force in nex
 
 ### 🎌 Connect with Azixur Rahman
 
-[![GitHub](https://img.shields.io/badge/GitHub-azixur-181717?style=flat-square&logo=github)](https://github.com/iremm12rr-pixel)
-[![Website](https://img.shields.io/badge/Portal-azixur.com-ff2a5f?style=flat-square&logo=safari)](https://iremm12rr-pixel.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-azixur-181717?style=flat-square&logo=github)](https://github.com/azixur-rahman)
+[![Website](https://img.shields.io/badge/Portal-azixur.com-ff2a5f?style=flat-square&logo=safari)](https://azixur-rahman.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-@azixur.rahman-E4405F?style=flat-square&logo=instagram)](https://instagram.com/azixur.rahman)
 [![Twitter](https://img.shields.io/badge/X-@azixur__rahman-000000?style=flat-square&logo=x)](https://x.com/azixur_rahman)
 
